@@ -3,3 +3,11 @@
 ################################################################################
 
 /LmsReceiver/LmsReceiver/.vs/LmsReceiver
+/LmsReceiver/LmsReceiver/LmsReceiver.AndroidApp/bin/Debug
+/LmsReceiver/LmsReceiver/LmsReceiver.AndroidApp/obj
+/LmsReceiver/LmsReceiver/MmsDataLoad/bin/Debug
+/LmsReceiver/LmsReceiver/MmsDataLoad/obj
+/LmsReceiver/LmsReceiver/MmsReceiver/MmsReceiver/bin/Debug/netstandard2.0
+/LmsReceiver/LmsReceiver/MmsReceiver/MmsReceiver/obj
+/LmsReceiver/LmsReceiver/MmsReceiver/MmsReceiver.Android/bin/Debug
+/LmsReceiver/LmsReceiver/MmsReceiver/MmsReceiver.Android/obj
